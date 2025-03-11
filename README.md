@@ -1,7 +1,7 @@
 # CryptoAnimals
 # Privacy Policy for Crypto Crash Animal Therapy
 
-## Last Updated: [Insert Date]
+## Last Updated: 11/03/2025
 
 ### 1. **Introduction**
 Crypto Crash Animal Therapy ("the Extension") is a Chrome browser extension designed to replace crypto-related terms on Twitter/X with fun animal facts and images. We take your privacy seriously and want to ensure you understand what data (if any) we collect and how we use it.
@@ -26,7 +26,7 @@ To function correctly, the Extension requires the following permissions:
 - The Extension does not communicate with external servers beyond fetching GIFs from Giphy.
 
 ### 6. **Contact Information**
-If you have any questions or concerns about this Privacy Policy, please contact us at [Your Email or Website].
+If you have any questions or concerns about this Privacy Policy, please contact us at sashavandevoorde@gmail.com.
 
 ### 7. **Changes to This Privacy Policy**
 This Privacy Policy may be updated periodically. Any changes will be reflected here with a new last updated date.
